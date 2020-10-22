@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg
+	baseProfile="full"
+	height="100%"
+	version="1.1"
+	viewBox="-10 -10 785 412"
+	width="100%"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:ev="http://www.w3.org/2001/xml-events"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="0, 74 122, 74 122, 98 0, 98 0, 74 "
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="0, 74 74, 74 74, 85 70, 88 0, 88 0, 74 "
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="start"
+			x="1"
+			y="86.984971">
+			creat-printJob
+		</text>
+
+	</g>
+
+	<text
+		fill="rgb(0, 0, 0)"
+		font-family="Arial"
+		font-size="10.487862"
+		text-anchor="start"
+		x="0"
+		y="66.009248">
+		Context: Scenario for Use Case
+	</text>
+
+	<g>
+
+		<path
+			d="M 335.000000 6.000000 A 6 6 0 1 1 334.999997 5.994000 "
+			fill="rgb(0, 0, 0)"
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="283, 70 379, 70 390, 60 390, 56 379, 46 283, 46 272, 56 272, 60 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 272.041858 57.415135 A 11 10 0 0 1 283.947755 46.039046 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 283.958713 69.960044 A 11 10 0 0 1 272.040905 58.595325 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 389.958142 58.584865 A 11 10 0 0 1 378.052245 69.960954 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 378.041287 46.039956 A 11 10 0 0 1 389.959095 57.404675 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="283"
+			x2="379"
+			y1="70"
+			y2="70"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="390"
+			x2="390"
+			y1="60"
+			y2="56"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="379"
+			x2="283"
+			y1="46"
+			y2="46"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="272"
+			x2="272"
+			y1="56"
+			y2="60"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="331"
+			y="58.984971">
+			Get Printer Controller
+		</text>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="668, 69 746, 69 756, 58 756, 56 746, 45 668, 45 658, 56 658, 58 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 658.039956 56.958713 A 10 11 0 0 1 669.404675 45.040905 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 669.415135 68.958142 A 10 11 0 0 1 658.039046 57.052245 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 755.960044 57.041287 A 10 11 0 0 1 744.595325 68.959095 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 744.584865 45.041858 A 10 11 0 0 1 755.960954 56.947755 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="668"
+			x2="746"
+			y1="69"
+			y2="69"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="756"
+			x2="756"
+			y1="58"
+			y2="56"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="746"
+			x2="668"
+			y1="45"
+			y2="45"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="658"
+			x2="658"
+			y1="56"
+			y2="58"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="707"
+			y="57.984971">
+			Throw Exception
+		</text>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="328, 104 344, 112 328, 120 312, 112 328, 104 "
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="563, 122 639, 122 650, 111 650, 99 639, 88 563, 88 552, 99 552, 111 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 552.041858 99.958713 A 11 11 0 0 1 563.947755 88.040905 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 563.958713 121.958142 A 11 11 0 0 1 552.040905 110.052245 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 649.958142 110.041287 A 11 11 0 0 1 638.052245 121.959095 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 638.041287 88.041858 A 11 11 0 0 1 649.959095 99.947755 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="563"
+			x2="639"
+			y1="122"
+			y2="122"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="650"
+			x2="650"
+			y1="111"
+			y2="99"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="639"
+			x2="563"
+			y1="88"
+			y2="88"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="552"
+			x2="552"
+			y1="99"
+			y2="111"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="601"
+			y="100.984971">
+			MaxNum reached
+		</text>
+
+	</g>
+
+	<image
+		height="9.988440"
+		width="9.988440"
+		x="644.005780"
+		xlink:href="data:image/gif;base64,R0lGODdhEAAQAJAAAAAAAPj4+CH5BAEAAAEALAAAAAAQABAAAAKRTAgQIECACBMmTIgwYcKEABMmTIgQYECECBEmTIgwYcKECAMmTIgQIMCEAAEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECACBEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECAAREiTIgwYcKECRMiTIgwYcKECRMiTAgQIECAAAEiBQA7"
+		y="122.011560"/>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="295, 170 365, 170 376, 160 376, 158 365, 148 295, 148 284, 158 284, 160 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 284.039956 159.415135 A 10 10 0 0 1 295.404675 148.039046 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 295.415135 169.960044 A 10 10 0 0 1 284.039046 158.595325 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 375.960044 158.584865 A 10 10 0 0 1 364.595325 169.960954 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 364.584865 148.039956 A 10 10 0 0 1 375.960954 159.404675 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="295"
+			x2="365"
+			y1="170"
+			y2="170"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="376"
+			x2="376"
+			y1="160"
+			y2="158"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="365"
+			x2="295"
+			y1="148"
+			y2="148"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="284"
+			x2="284"
+			y1="158"
+			y2="160"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="330"
+			y="160.984971">
+			create PrintJob
+		</text>
+
+	</g>
+
+	<image
+		height="9.988440"
+		width="9.988440"
+		x="371.005780"
+		xlink:href="data:image/gif;base64,R0lGODdhEAAQAJAAAAAAAPj4+CH5BAEAAAEALAAAAAAQABAAAAKRTAgQIECACBMmTIgwYcKEABMmTIgQYECECBEmTIgwYcKECAMmTIgQIMCEAAEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECACBEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECAAREiTIgwYcKECRMiTIgwYcKECRMiTAgQIECAAAEiBQA7"
+		y="171.011560"/>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="283, 215 377, 215 388, 205 388, 203 377, 193 283, 193 272, 203 272, 205 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 272.039956 204.415135 A 10 10 0 0 1 283.404675 193.039046 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 283.415135 214.960044 A 10 10 0 0 1 272.039046 203.595325 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 387.960044 203.584865 A 10 10 0 0 1 376.595325 214.960954 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 376.584865 193.039956 A 10 10 0 0 1 387.960954 204.404675 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="283"
+			x2="377"
+			y1="215"
+			y2="215"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="388"
+			x2="388"
+			y1="205"
+			y2="203"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="377"
+			x2="283"
+			y1="193"
+			y2="193"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="272"
+			x2="272"
+			y1="203"
+			y2="205"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="330"
+			y="205.984971">
+			add to queuedPrintJobs
+		</text>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="290, 258 370, 258 381, 247 381, 247 370, 236 290, 236 279, 247 279, 247 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 279.039956 247.415135 A 10 10 0 0 1 290.404675 236.039046 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 290.415135 257.960044 A 10 10 0 0 1 279.039046 246.595325 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 380.960044 246.584865 A 10 10 0 0 1 369.595325 257.960954 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 369.584865 236.039956 A 10 10 0 0 1 380.960954 247.404675 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="290"
+			x2="370"
+			y1="258"
+			y2="258"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="381"
+			x2="381"
+			y1="247"
+			y2="247"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="370"
+			x2="290"
+			y1="236"
+			y2="236"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="279"
+			x2="279"
+			y1="247"
+			y2="247"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="330"
+			y="247.984971">
+			add to printjobMap
+		</text>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="328, 292 344, 300 328, 308 312, 300 328, 292 "
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+	</g>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="507, 302 575, 302 586, 291 586, 293 575, 282 507, 282 496, 293 496, 291 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 496.041858 293.415135 A 11 10 0 0 1 507.947755 282.039046 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 507.958713 301.960044 A 11 10 0 0 1 496.040905 290.595325 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 585.958142 290.584865 A 11 10 0 0 1 574.052245 301.960954 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 574.041287 282.039956 A 11 10 0 0 1 585.959095 293.404675 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="507"
+			x2="575"
+			y1="302"
+			y2="302"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="586"
+			x2="586"
+			y1="291"
+			y2="293"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="575"
+			x2="507"
+			y1="282"
+			y2="282"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="496"
+			x2="496"
+			y1="293"
+			y2="291"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="541"
+			y="294.984971">
+			return 202
+		</text>
+
+	</g>
+
+	<image
+		height="9.988440"
+		width="9.988440"
+		x="581.005780"
+		xlink:href="data:image/gif;base64,R0lGODdhEAAQAJAAAAAAAPj4+CH5BAEAAAEALAAAAAAQABAAAAKRTAgQIECACBMmTIgwYcKEABMmTIgQYECECBEmTIgwYcKECAMmTIgQIMCEAAEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECACBEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECAAREiTIgwYcKECRMiTIgwYcKECRMiTAgQIECAAAEiBQA7"
+		y="302.011560"/>
+
+	<g>
+
+		<polygon
+			fill="rgb(229, 229, 229)"
+			points="291, 355 371, 355 382, 344 382, 336 371, 325 291, 325 280, 336 280, 344 "
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 280.041858 336.958713 A 11 11 0 0 1 291.947755 325.040905 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 291.958713 354.958142 A 11 11 0 0 1 280.040905 343.052245 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 381.958142 343.041287 A 11 11 0 0 1 370.052245 354.959095 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 370.041287 325.041858 A 11 11 0 0 1 381.959095 336.947755 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="291"
+			x2="371"
+			y1="355"
+			y2="355"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="382"
+			x2="382"
+			y1="344"
+			y2="336"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="371"
+			x2="291"
+			y1="325"
+			y2="325"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="280"
+			x2="280"
+			y1="336"
+			y2="344"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="331"
+			y="338.984971">
+			return 201
+		</text>
+
+	</g>
+
+	<image
+		height="9.988440"
+		width="9.988440"
+		x="377.005780"
+		xlink:href="data:image/gif;base64,R0lGODdhEAAQAJAAAAAAAPj4+CH5BAEAAAEALAAAAAAQABAAAAKRTAgQIECACBMmTIgwYcKEABMmTIgQYECECBEmTIgwYcKECAMmTIgQIMCEAAEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECACBEiTIgwYcKECRMiTIgQIMCAABMiTIgwYcKECRMiTIgQYECAAREiTIgwYcKECRMiTIgwYcKECRMiTAgQIECAAAEiBQA7"
+		y="355.011560"/>
+
+	<g>
+
+		<path
+			d="M 334.000000 386.000000 A 6 6 0 1 1 333.999997 385.994000 "
+			fill="rgb(229, 229, 229)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+		<path
+			d="M 331.000000 386.000000 A 3 3 0 1 1 330.999999 385.997000 "
+			fill="rgb(0, 0, 0)"
+			stroke="none"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"/>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="328"
+			x2="325"
+			y1="46"
+			y2="34"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="332"
+			x2="328"
+			y1="34"
+			y2="46"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="328"
+			x2="328"
+			y1="12"
+			y2="46"/>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="658"
+			x2="647"
+			y1="59"
+			y2="62"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="647"
+			x2="658"
+			y1="55"
+			y2="59"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="438"
+			x2="390"
+			y1="59"
+			y2="59"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="610"
+			x2="658"
+			y1="59"
+			y2="59"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="524"
+			y="61.497110">
+			[error when getting Printer Handler]
+		</text>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="323"
+			y1="105"
+			y2="94"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="326"
+			y1="94"
+			y2="105"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="326"
+			y1="78"
+			y2="71"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="326"
+			y1="98"
+			y2="105"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="326"
+			y="90.497110">
+			[check queuedPrintjobs.size()]
+		</text>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="552"
+			x2="541"
+			y1="112"
+			y2="115"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="541"
+			x2="552"
+			y1="108"
+			y2="112"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="416"
+			x2="343"
+			y1="112"
+			y2="112"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="479"
+			x2="552"
+			y1="112"
+			y2="112"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="448"
+			y="114.497110">
+			[size &gt; Max]
+		</text>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="327"
+			x2="323"
+			y1="148"
+			y2="137"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="331"
+			x2="327"
+			y1="137"
+			y2="148"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="327"
+			x2="327"
+			y1="119"
+			y2="148"/>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="323"
+			y1="193"
+			y2="182"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="326"
+			y1="182"
+			y2="193"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="326"
+			y1="170"
+			y2="193"/>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="322"
+			y1="235"
+			y2="224"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="326"
+			y1="224"
+			y2="235"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="326"
+			x2="326"
+			y1="215"
+			y2="235"/>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="328"
+			x2="325"
+			y1="292"
+			y2="281"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="332"
+			x2="328"
+			y1="281"
+			y2="292"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="328"
+			x2="328"
+			y1="265"
+			y2="258"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="328"
+			x2="328"
+			y1="285"
+			y2="292"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="328"
+			y="277.497110">
+			[check isCurrentlySendingToPrinter]
+		</text>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="502"
+			x2="491"
+			y1="300"
+			y2="304"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="491"
+			x2="502"
+			y1="297"
+			y2="300"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="410"
+			x2="343"
+			y1="300"
+			y2="300"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="434"
+			x2="502"
+			y1="300"
+			y2="300"/>
+
+		<text
+			fill="rgb(0, 0, 0)"
+			font-family="Arial"
+			font-size="10.487862"
+			text-anchor="middle"
+			x="422"
+			y="302.497110">
+			[no]
+		</text>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="326"
+			y1="326"
+			y2="315"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="333"
+			x2="330"
+			y1="315"
+			y2="326"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="330"
+			y1="307"
+			y2="326"/>
+
+	</g>
+
+	<g>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="326"
+			y1="380"
+			y2="369"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="333"
+			x2="330"
+			y1="369"
+			y2="380"/>
+
+		<line
+			fill="rgb(0, 0, 0)"
+			stroke="rgb(0, 0, 0)"
+			stroke-width="1.048786"
+			style="stroke-linejoin:bevel;stroke-linecap:square;"
+			x1="330"
+			x2="330"
+			y1="355"
+			y2="380"/>
+
+	</g>
+
+</svg>
+
